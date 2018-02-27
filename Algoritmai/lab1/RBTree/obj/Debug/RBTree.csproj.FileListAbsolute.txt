@@ -1,3 +1,8 @@
 H:\Algoritmai\lab1\RBTree\bin\Debug\RBTree.exe.config
 D:\KTU\Algoritmai\lab1\RBTree\bin\Debug\RBTree.exe.config
 D:\KTU\KTU\Algoritmai\lab1\RBTree\bin\Debug\RBTree.exe.config
+D:\KTU\KTU\Algoritmai\lab1\RBTree\bin\Debug\RBTree.exe
+D:\KTU\KTU\Algoritmai\lab1\RBTree\bin\Debug\RBTree.pdb
+D:\KTU\KTU\Algoritmai\lab1\RBTree\obj\Debug\RBTree.csprojResolveAssemblyReference.cache
+D:\KTU\KTU\Algoritmai\lab1\RBTree\obj\Debug\RBTree.exe
+D:\KTU\KTU\Algoritmai\lab1\RBTree\obj\Debug\RBTree.pdb

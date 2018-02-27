@@ -24,6 +24,7 @@ namespace RBTree
     */
     public class RedBlackTree<Key, Value>
         where Key : IComparable
+        where Value : IComparable
     {
         public Node root = NIL.Instance();  //used to keep track of the root of the binary search tree
 
@@ -489,6 +490,81 @@ namespace RBTree
             {
                 return TreeSearch(x.right, key);
             }
+        }
+
+        public Node TreeSearch(Value value)
+        {
+            return TreeSearch(root, value);
+        }
+
+        public Node TreeSearch(Node x, Value value)
+        {
+            if(x.val == null)
+            {
+                return null;
+            }
+            if (x == null || value.CompareTo(x.val) == 0)
+            {
+                return x;
+            }
+            if (value.CompareTo(x.val) < 0)
+            {
+                return TreeSearch(x.left, value);
+            }
+            else
+            {
+                return TreeSearch(x.right, value);
+            }
+        }
+
+        private void Print(Node t)
+        {
+            if (t == null)
+            {
+                return;
+            }
+            else
+            {
+                Print(t.left);
+                if (t.left != null) Console.Write("{0,3:N0} <<- ",
+                t.left.key);
+                else Console.Write(" ");
+                Console.Write("{0,3:N0} {1} ", t.key, t.val);
+                if (t.right != null) Console.WriteLine(" ->> {0,3:N0}",
+                t.right.key);
+                else Console.WriteLine(" ");
+                Print(t.right);
+            }
+        }
+
+        public void Print()
+        {
+            Print(this.root);
+        }
+
+        private bool Contains(string x, Node t)
+        {
+            while (t.val != null)
+            {
+                if ((x as IComparable).CompareTo(t.val) < 0)
+                {
+                    t = t.left;
+                }
+                else if ((x as IComparable).CompareTo(t.val) > 0)
+                {
+                    t = t.right;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        public bool Contains(string x)
+        {
+            return Contains(x, this.root);
         }
     }
 }
