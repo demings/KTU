@@ -1,0 +1,12 @@
+I:\Algoritmai\lab1\Sorts-D\bin\Debug\Sorts-D.exe.config
+I:\Algoritmai\lab1\Sorts-D\bin\Debug\Sorts-D.exe
+I:\Algoritmai\lab1\Sorts-D\bin\Debug\Sorts-D.pdb
+I:\Algoritmai\lab1\Sorts-D\obj\Debug\Sorts-D.exe
+I:\Algoritmai\lab1\Sorts-D\obj\Debug\Sorts-D.pdb
+I:\Algoritmai\lab1\Sorts-D\obj\Debug\Sorts-D.csprojResolveAssemblyReference.cache
+H:\Algoritmai\lab1\Sorts-D\bin\Debug\Sorts-D.exe.config
+H:\Algoritmai\lab1\Sorts-D\obj\Debug\Sorts-D.exe
+H:\Algoritmai\lab1\Sorts-D\obj\Debug\Sorts-D.pdb
+H:\Algoritmai\lab1\Sorts-D\bin\Debug\Sorts-D.exe
+H:\Algoritmai\lab1\Sorts-D\bin\Debug\Sorts-D.pdb
+H:\Algoritmai\lab1\Sorts-D\obj\Debug\Sorts-D.csprojResolveAssemblyReference.cache

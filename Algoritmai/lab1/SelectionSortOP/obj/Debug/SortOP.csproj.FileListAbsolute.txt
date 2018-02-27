@@ -1,0 +1,14 @@
+D:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.exe
+D:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.pdb
+D:\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.exe.config
+D:\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.exe
+D:\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.pdb
+I:\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.exe.config
+I:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.exe
+I:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.pdb
+I:\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.exe
+I:\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.pdb
+I:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SortOP.csprojResolveAssemblyReference.cache
+H:\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.exe.config
+H:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.exe
+H:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.pdb

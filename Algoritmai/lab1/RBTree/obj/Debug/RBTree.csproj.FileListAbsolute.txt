@@ -1,0 +1,3 @@
+H:\Algoritmai\lab1\RBTree\bin\Debug\RBTree.exe.config
+D:\KTU\Algoritmai\lab1\RBTree\bin\Debug\RBTree.exe.config
+D:\KTU\KTU\Algoritmai\lab1\RBTree\bin\Debug\RBTree.exe.config

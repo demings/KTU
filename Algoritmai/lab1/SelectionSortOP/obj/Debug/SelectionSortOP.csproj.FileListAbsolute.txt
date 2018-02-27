@@ -1,0 +1,15 @@
+C:\Users\minda\Desktop\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.exe.config
+C:\Users\minda\Desktop\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.exe
+C:\Users\minda\Desktop\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.pdb
+C:\Users\minda\Desktop\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.csprojResolveAssemblyReference.cache
+C:\Users\minda\Desktop\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.exe
+C:\Users\minda\Desktop\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.pdb
+I:\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.exe.config
+I:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.exe
+I:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.pdb
+D:\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.exe.config
+D:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.exe
+D:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.pdb
+D:\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.exe
+D:\Algoritmai\lab1\SelectionSortOP\bin\Debug\SelectionSortOP.pdb
+D:\Algoritmai\lab1\SelectionSortOP\obj\Debug\SelectionSortOP.csprojResolveAssemblyReference.cache
